@@ -1,0 +1,7 @@
+C:\Users\warbe\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll.config
+C:\Users\warbe\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.dll
+C:\Users\warbe\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\bin\ChallengeEpicSpiesAssignment.pdb
+C:\Users\warbe\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csprojResolveAssemblyReference.cache
+C:\Users\warbe\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\warbe\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.dll
+C:\Users\warbe\source\repos\ChallengeEpicSpiesAssignment\ChallengeEpicSpiesAssignment\obj\Debug\ChallengeEpicSpiesAssignment.pdb
